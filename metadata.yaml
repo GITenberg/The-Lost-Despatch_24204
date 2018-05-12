@@ -1,0 +1,28 @@
+_repo: The-Lost-Despatch_24204
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lincoln, Natalie Sumner
+    birthdate: 1881
+    deathdate: 1935
+    gutenberg_agent_id: '711'
+    url: http://www.gutenberg.org/2009/agents/711
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2008-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24204'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Spy stories'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+title: The Lost Despatch
+url: http://www.gutenberg.org/ebooks/24204
